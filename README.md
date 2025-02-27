@@ -1,6 +1,6 @@
 # Credit Card Fraud: Analysis and Prevention
 
-#Overview
+**Overview**
 Credit card fraud is a growing concern in digital commerce, threatening financial security and consumer trust. This project analyzes patterns of fraudulent transactions using a dataset of 100,000 transactions. The goal is to identify key fraud indicators using SQL queries and develop insights for fraud detection and prevention.
 
 #Analysis Objectives Using SQL
